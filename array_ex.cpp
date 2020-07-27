@@ -34,7 +34,7 @@ void play_game()
         }
         
     }
-    
+    std::cout <<" the correct number was "<< random <<" game continues .... \n";
 }
 
 int main()
