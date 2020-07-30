@@ -52,8 +52,7 @@ void play_game()
         }else
         {
             output << high_score;
-        }
-        
+        }        
         
         game_play(guesses);
     }
